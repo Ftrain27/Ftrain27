@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ftrain27
-- 👀 I’m interested in blockchain & making the world a better place
-- 🌱 I’m currently learning python and haskell
-- 💞️ I’m looking to collaborate on intermediate level python projects & beginner level haskell projects
+- 👀 I’m interested in building dapps/Plutus Smart Contracts on the Cardano Blockchain
+- 🌱 I’m currently learning python and Plutus
+- 💞️ I’m looking to collaborate on beginner level Python & Plutus projects & intermediate level Haskell projects
 - 📫 How to reach me via email: thewizard2742@protonmail.com
 
 <!---
